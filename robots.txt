@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://lucesebizibe.pages.dev/sitemap.xml
